@@ -143,7 +143,7 @@ textarea {
     top: 0;
     width: 100%;
     z-index: 998;
-    background-color: #5c1ef9;
+    background-color: #5c0b68;
 }
 
 .menu-area {
@@ -990,7 +990,7 @@ END Pricing Area
 }
 .download-btns a:hover{
     background-color: #fff;
-    color: #5c1ef9;
+    color: #5c0b68;
 }
 .download-btns a i {
     font-size: 19px;
